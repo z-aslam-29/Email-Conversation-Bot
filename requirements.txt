@@ -1,0 +1,24 @@
+# Web Framework
+fastapi
+uvicorn
+
+# Database
+motor
+pymongo
+
+# LLM Integration
+groq
+
+# Frontend
+streamlit
+
+# API Tools
+python-multipart
+pydantic
+
+# Async Support
+asyncio
+aiohttp
+
+# Utility
+python-dotenv
